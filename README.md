@@ -1,2 +1,3 @@
 # project-icons
-SVG-Icons for all my projects
+
+SVG-Icons as components for my projects
