@@ -1,15 +1,7 @@
 {
   "compilerOptions": {
     "outDir": "dist",
-    "jsx": "react",
-    "paths": {
-      "@mde-ui/svg-icon": ["../../shared/components/svg-icon/src"]
-    }
+    "jsx": "react"
   },
-  "files": [],
-  "references": [
-    { "path": "./tsconfig.app.json" },
-    { "path": "./tsconfig.node.json" }
-  ],
   "include": ["src/**/*"]
 }
