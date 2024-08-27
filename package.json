@@ -1,5 +1,5 @@
 {
-  "name": "@arale/icons",
+  "name": "@just1arale/icons",
   "version": "1.0.1",
   "description": "SVG-Icons as components for my projects",
   "main": "rollup.config.js",
