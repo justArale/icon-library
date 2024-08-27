@@ -1,0 +1,27 @@
+{
+  "name": "@arale/icons",
+  "version": "1.0.0",
+  "description": "SVG-Icons as components for my projects",
+  "main": "rollup.config.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "keywords": [
+    "icons"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^26.0.1",
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "@types/react": "^18.3.4",
+    "@types/react-dom": "^18.3.0",
+    "rollup": "^4.21.1",
+    "rollup-plugin-typescript2": "^0.36.0",
+    "typescript": "^5.5.4"
+  }
+}
