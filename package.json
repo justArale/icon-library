@@ -1,6 +1,6 @@
 {
   "name": "@arale/icons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SVG-Icons as components for my projects",
   "main": "rollup.config.js",
   "scripts": {
