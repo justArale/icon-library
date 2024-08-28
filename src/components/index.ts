@@ -11,3 +11,4 @@ export { default as Heart } from "./Heart";
 export { default as LinkedIn } from "./LinkedIn";
 export { default as Loading } from "./Loading";
 export { default as New } from "./New";
+export { default as Play } from "./Play";
