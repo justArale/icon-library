@@ -12,6 +12,7 @@ export { default as Image } from "./Image";
 export { default as LinkedIn } from "./LinkedIn";
 export { default as Loading } from "./Loading";
 export { default as New } from "./New";
+export { default as Pause } from "./Pause";
 export { default as Play } from "./Play";
 export { default as Save } from "./Save";
 export { default as Saved } from "./Saved";
