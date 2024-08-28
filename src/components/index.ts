@@ -4,3 +4,4 @@ export { default as Camera } from "./Camera";
 export { default as Cancel } from "./Cancel";
 export { default as Check } from "./Check";
 export { default as Clear } from "./Clear";
+export { default as Delete } from "./Delete";
