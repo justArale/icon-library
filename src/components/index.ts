@@ -14,3 +14,4 @@ export { default as New } from "./New";
 export { default as Play } from "./Play";
 export { default as Saved } from "./Saved";
 export { default as Search } from "./Search";
+export { default as Select } from "./Select";
