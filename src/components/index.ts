@@ -8,6 +8,7 @@ export { default as Delete } from "./Delete";
 export { default as Edit } from "./Edit";
 export { default as GitHub } from "./GitHub";
 export { default as Heart } from "./Heart";
+export { default as Image } from "./Image";
 export { default as LinkedIn } from "./LinkedIn";
 export { default as Loading } from "./Loading";
 export { default as New } from "./New";
