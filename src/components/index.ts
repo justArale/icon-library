@@ -18,4 +18,5 @@ export { default as Save } from "./Save";
 export { default as Saved } from "./Saved";
 export { default as Search } from "./Search";
 export { default as Select } from "./Select";
+export { default as SpotifyLogo } from "./SpotifyLogo";
 export { default as Stop } from "./Stop";
