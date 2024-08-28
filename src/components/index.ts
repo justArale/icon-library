@@ -7,3 +7,4 @@ export { default as Clear } from "./Clear";
 export { default as Delete } from "./Delete";
 export { default as Edit } from "./Edit";
 export { default as GitHub } from "./GitHub";
+export { default as Heart } from "./Heart";
