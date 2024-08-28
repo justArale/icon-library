@@ -1,6 +1,6 @@
 import React from "react";
 
-const Add: React.FC<React.SVGProps<SVGSVGElement>> = (props) => {
+const Edit: React.FC<React.SVGProps<SVGSVGElement>> = (props) => {
   return (
     <svg
       viewBox="0 0 24 24"
@@ -11,12 +11,12 @@ const Add: React.FC<React.SVGProps<SVGSVGElement>> = (props) => {
       <path
         fillRule="evenodd"
         clipRule="evenodd"
-        d="M10.5 13.5H2.5V10.5H10.5V2.5H13.5V10.5H21.5V13.5H13.5V21.5H10.5V13.5Z"
+        d="M21.25 7.25L19.75 8.75L15.25 4.25L16.75 2.75C18.75 2.75 21.25 5.25 21.25 7.25ZM3 16.75L14.25 5.25L18.75 9.75L7.25 21H3V16.75Z"
         fill="currentColor"
       />
     </svg>
   );
 };
 
-Add.displayName = "AddIcon";
-export default Add;
+Edit.displayName = "EditIcon";
+export default Edit;
