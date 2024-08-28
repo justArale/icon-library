@@ -9,3 +9,4 @@ export { default as Edit } from "./Edit";
 export { default as GitHub } from "./GitHub";
 export { default as Heart } from "./Heart";
 export { default as LinkedIn } from "./LinkedIn";
+export { default as Loading } from "./Loading";
