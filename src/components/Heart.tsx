@@ -1,6 +1,6 @@
 import React from "react";
 
-const Add: React.FC<React.SVGProps<SVGSVGElement>> = (props) => {
+const Heart: React.FC<React.SVGProps<SVGSVGElement>> = (props) => {
   return (
     <svg
       viewBox="0 0 24 24"
@@ -18,5 +18,5 @@ const Add: React.FC<React.SVGProps<SVGSVGElement>> = (props) => {
   );
 };
 
-Add.displayName = "AddIcon";
-export default Add;
+Heart.displayName = "HeartIcon";
+export default Heart;

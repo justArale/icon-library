@@ -18,5 +18,5 @@ const New: React.FC<React.SVGProps<SVGSVGElement>> = (props) => {
   );
 };
 
-New.displayName = "AddIcon";
+New.displayName = "NewIcon";
 export default New;
