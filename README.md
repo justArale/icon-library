@@ -1,3 +1,3 @@
 # project-icons
 
-SVG-Icons as components for my projects
+SVG-Icon library for my projects
