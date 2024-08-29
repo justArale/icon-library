@@ -12,9 +12,9 @@ $ npm i @just1arale/icons
 
 ```js
 // example
-import { ArrorRight } from "@just1arale/icons";
+import { ArrowRight } from "@just1arale/icons";
 
-<ArrorRight width="24" height="24" color="#B6D2CE">
+<ArrowRight width="24" height="24" color="#B6D2CE">
 ```
 
 ## Icons Overview
