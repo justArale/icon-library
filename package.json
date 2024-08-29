@@ -1,6 +1,6 @@
 {
   "name": "@just1arale/icons",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "SVG-Icons as components for my projects",
   "main": "rollup.config.js",
   "scripts": {
