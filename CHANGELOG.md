@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.2] (2024-08-29)
+
+### Bug Fixes
+
+- fixed declare module ([#8](https://github.com/justArale/icon-library/issues/8)) ([201fbf2](https://github.com/justArale/icon-library/commit/201fbf2))
+
 ## [1.0.1] (2024-08-28)
 
 ### Features
