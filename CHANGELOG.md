@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.4] (2024-08-29)
+
+**Note:** Bump version to 1.0.4
+
+### Bug Fixes
+
+- fixed import issue of this library into other projects ([#10](https://github.com/justArale/icon-library/issues/10)) ([12b0cdb](https://github.com/justArale/icon-library/commit/12b0cdb))
+
+## [1.0.3] (2024-08-29)
+
+**Note:** Bump version to 1.0.3
+
 ## [1.0.2] (2024-08-29)
 
 ### Bug Fixes
