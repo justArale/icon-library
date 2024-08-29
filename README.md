@@ -12,10 +12,12 @@ $ npm i @just1arale/icons
 
 ```js
 // example
-import { ArrorRight as ArrorRightIcon } from "@just1arale/icons";
+import { ArrorRight } from "@just1arale/icons";
+
+<ArrorRight width="24" height="24" color="#B6D2CE">
 ```
 
 ## Icons Overview
 
-Please check the [closes issue - all SVGs](https://github.com/justArale/icon-library/commit/9a68816)
+Please check the [closed issue - all SVGs](https://github.com/justArale/icon-library/commit/9a68816)
 for an overview of all icons
