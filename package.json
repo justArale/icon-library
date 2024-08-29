@@ -1,6 +1,6 @@
 {
   "name": "@just1arale/icons",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "SVG-Icons as components for my projects",
   "main": "src/components/index.ts",
   "type": "module",
