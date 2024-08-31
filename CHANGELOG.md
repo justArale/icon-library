@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.5] (2024-08-31)
+
+**Note:** Bump version to 1.0.5
+
+### Bug Fixes
+
+- fixed color for spotify logo ([#13](https://github.com/justArale/icon-library/issues/13)) ([9d83b01](https://github.com/justArale/icon-library/commit/9d83b01))
+
 ## [1.0.4] (2024-08-29)
 
 **Note:** Bump version to 1.0.4
